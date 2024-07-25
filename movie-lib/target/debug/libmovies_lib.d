@@ -1,0 +1,1 @@
+/home/renato/Documents/rust_test/movie-app/movie-lib/target/debug/libmovies_lib.rlib: /home/renato/Documents/rust_test/movie-app/movie-lib/src/lib.rs /home/renato/Documents/rust_test/movie-app/movie-lib/src/movies.rs
